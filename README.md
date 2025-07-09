@@ -6,7 +6,9 @@
 
 ## 🧠 Sobre o Projeto
 
-O **Journaling** é um diário digital onde o usuário pode registrar pensamentos, reflexões e sentimentos de maneira organizada e acolhedora. Com uma interface delicada e intuitiva, o site busca incentivar o hábito da escrita como forma de autoconhecimento e bem-estar.
+Seu objetivo é oferecer uma experiência leve e acolhedora para registrar pensamentos e reflexões do dia a dia. A interface foi criada com foco em clareza visual, organização e harmonia de cores, usando gradientes suaves para destacar os títulos das anotações.
+
+No momento, as anotações são adicionadas **manualmente no código HTML**, pois o projeto ainda não possui funcionalidades dinâmicas como formulários ou armazenamento. Futuramente, ele pode ser expandido com JavaScript e banco de dados para tornar a experiência mais interativa e personalizada.
 
 ---
 
