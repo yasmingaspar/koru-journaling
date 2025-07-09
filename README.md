@@ -16,7 +16,7 @@ No momento, as anotações são adicionadas **manualmente no código HTML**, poi
 
 - Criar uma experiência agradável e tranquila para o usuário escrever no seu diário.
 - Utilizar boas práticas de HTML e CSS.
-- Praticar estruturação semântica e estilização responsiva.
+- Praticar estruturação semântica e estilização.
 - Projeto educacional com foco em acessibilidade e visual clean.
 
 ---
