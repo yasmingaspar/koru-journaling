@@ -1,6 +1,6 @@
-# 🌸 Journaling
+# 🥀 Journaling
 
-> Um site de diário pessoal desenvolvido com HTML e CSS. Projeto criado no programa **Desenvolve** da Koru em parceria com o Boticário.
+> Um site de diário pessoal desenvolvido com HTML e CSS. Projeto criado no programa **Desenvolve** da Boticário em parceria com a Koru.
 
 ---
 
